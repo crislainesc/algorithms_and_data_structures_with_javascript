@@ -30,7 +30,21 @@ The book "Data Structures and Algorithms with JavaScript" starts with the basics
 
 ### ✨ Chapters
 
-
+- **[01 ◾ JavaScript - a quick overview](chapter_01)**
+- **[02 ◾ ECMAScript and TypeScript Overview](chapter_02)**
+- **[03 ◾ Arrays](chapter_03)**
+- **[04 ◾ Stacks](chapter_04)**
+- **[05 ◾ Queues and Decks](chapter_05)**
+- **[06 ◾ Linked lists](chapter_06)**
+- **[07 ◾ Sets](chapter_07)**
+- **[08 ◾ Dictionaries and hashes](chapter_08)**
+- **[09 ◾ Recursion](chapter_09)**
+- **[10 ◾ Trees](chapter_10)**
+- **[11 ◾ Binary heap and sort heap](chapter_11)**
+- **[12 ◾ Graphs](chapter_12)**
+- **[13 ◾ Sort and Search Algorithms](chapter_13)**
+- **[14 ◾ Algorithm and Technique Designs](chapter_14)**
+- **[15 ◾ Complexity of algorithms](chapter_15)**
 
 ### 💻 Technologies
 
