@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "typescript": "^4.9.5"
+  },
+  "scripts": {
+    "build": "babel src -d build --out-dir lib",
+    "experimental": "node --experimental-modules mjs/11-ES2015-ES6-Modules.mjs",
+    "tsc": "tsc typescript/12-Hello-World.ts"
+  }
+}
